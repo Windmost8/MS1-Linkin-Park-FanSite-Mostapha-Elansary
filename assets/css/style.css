@@ -1,0 +1,83 @@
+.logo {
+    float: left;
+    font-size:280%;
+    margin-left:30px;
+    width:100px;
+    height:100px;
+}
+
+.logo {
+    line-height:50px
+}
+
+#menus li {
+    float:right;
+    margin-right:30px;
+}
+
+.homeLink {
+    text-decoration: none;
+    color:inherit;
+}
+
+.social-networks {
+    text-align: center;
+}   
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size:160%;
+    margin: 1%;
+    color: #777777;
+}
+
+body {
+    background-color:beige;
+}
+
+.active {
+    border-bottom: 1px solid #777777;
+}
+
+a {
+    color:inherit;
+}
+
+#learnmore {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px; 
+    font-size:100%;
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+h6 {
+    text-align:center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.lead1 {
+    padding:5vw;
+}
+
+.look {
+    margin-left:35vw;
+    font-size:20px;   
+}
+
+.nav1 {
+    margin-left: 30px;
+}
+
