@@ -57,7 +57,7 @@ a {
     letter-spacing: 4px;
 }
 
-h6 {
+h6, h1 {
     text-align:center;
 }
 
@@ -81,3 +81,20 @@ h6 {
     margin-left: 30px;
 }
 
+@media only screen and (min-width: 768px)  {
+    #contact-form {
+        height:77vh;
+    }
+    .blockquote-footer {
+        display:none;
+    }
+}
+
+@media only screen and (min-width: 992px)  {
+    #contact-form {
+        height:82vh;
+    }
+    .blockquote-footer {
+        display:none;
+    }
+}

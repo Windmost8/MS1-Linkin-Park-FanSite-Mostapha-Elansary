@@ -84,3 +84,36 @@ All wireframes for the 3 major devices, desktop, mobile, and tablet are included
 outcomes of the project and its responsivness. In terms of the mobile and tablet devices, certain wireframes were elongated so simulate scrolling.
 Also, the burger icon shows the menus already out on the wireframes, whereas in reality they are only shown that way when clicking on the burger
 icon. By default they are hidden.
+
+###Testing
+
+All user story conditions work on both tablets and mobile, in addition to desktop. The abiltiy to listen to music and view images is possible
+and the readabilty of the present text is also clear. The images are responsive with the aid of bootstrap.
+
+Testing was done through the inspect option of google chrome for mobile and tablet responsivness. Although mobile was more the focus.
+
+Devices tested:
+
+iPad - for tablet sizes
+iPhone 5/S - for avergage phone sizes
+iPhone X - for closest to latest mobile sizes.
+
+The output of these devices is the intended output provided in the wireframes, with the exception of slight scroll differences.
+
+###Deployment
+
+###Credits
+####Content
+Almost all links present in the project link to an offical wikipeadia page with the relevant information. 
+Quotes present on the home page were taken from Linkin Park's official song lyrics, with the songs mentioned and sourced on the page itself.
+
+####Media
+Music sources were embedded from soundcloud, using their iframes. [soundcloud](https://soundcloud.com/) 
+Soundcloud was chosen for it's easy playabilty of music.
+Image sources were taken from
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+####Acknowledgements
+The idea of a band fan site resonated with me personally since I personally like and listen to the band.
+This website is only for educational purposes.
