@@ -10,9 +10,13 @@
     line-height:50px
 }
 
-#menus li {
+#menu li {
     float:right;
     margin-right:30px;
+}
+
+h1 {
+    text-align:center;
 }
 
 .homeLink {
@@ -22,7 +26,12 @@
 
 .social-networks {
     text-align: center;
+    padding:0px;
 }   
+
+iframe {
+    width:100%
+}
 
 .social-networks li {
     display: inline;
@@ -34,6 +43,8 @@
     color: #777777;
 }
 
+
+
 body {
     background-color:beige;
 }
@@ -42,11 +53,16 @@ body {
     border-bottom: 1px solid #777777;
 }
 
-a {
-    color:inherit;
+a:link, a:hover, a:visited, a:active{
+    text-decoration:none;
+    color:white;
 }
 
-#learnmore {
+.btn-gray {
+    background-color:grey;
+}
+
+#learnmore, .learn  {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -57,7 +73,11 @@ a {
     letter-spacing: 4px;
 }
 
-h6, h1 {
+p, h2{
+    text-align:center;
+}
+
+h3, h6 {
     text-align:center;
 }
 
@@ -81,6 +101,14 @@ h6, h1 {
     margin-left: 30px;
 }
 
+.container1 { 
+  
+    width: 96%;
+    max-width: 60em;
+    margin: 0 auto;
+  
+}
+
 @media only screen and (min-width: 768px)  {
     #contact-form {
         height:77vh;
@@ -98,3 +126,4 @@ h6, h1 {
         display:none;
     }
 }
+
