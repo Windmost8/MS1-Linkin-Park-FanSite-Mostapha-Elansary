@@ -117,13 +117,14 @@ play the tracks presented for a short while.
 ### Screenshots
 Below are links with screenshots provided in order to visually see the intended output of the sites functionality and structure. Both dekstop and mobile screenshots are available. They may also be found in the screenshots folder directory.
 
+https://github.com/Windmost8/MS1-Linkin-Park-FanSite-Mostapha-Elansary/blob/0293f7a9f01d35566984faf07bd7e067ac5548c0/screenshots
 
 --- 
 ## Deployment
 #### Gitpod
 Previewing the site in gitpod was done through the command python3 -m http.server.
 Once the command is used, a popup with port 8000 will ask you to "Make Public" or "Preview Browser".
-You can click on "Make Public First" and if another popup arrives you click on "Prievew Browser" in order to see the site.
+You can click on "Make Public First" and if another popup arrives you click on "Prievew Browser" or in some cases "Open Broswer" in order to see the site.
 Alternatively, you can ctrl-click on the port 8000 link that will be shown in the terminal.
 There is no autosave so saving after each change was optimal, as well as commiting to github.
 The template used here was the full template issued by Code Insitutite.
@@ -131,6 +132,7 @@ The template used here was the full template issued by Code Insitutite.
 #### Github
 Deployment was done through github pages. The documentation of which can be found here: https://pages.github.com/
 Through the settings of the repository, in the options menu, scrolling down to GitHub pages and saving and publishing throuh there.
+It took some time to deploy, but eventually after some minutes the site was up.
 
 The deployed site is functional and succesfull. The link is here; https://windmost8.github.io/MS1-Linkin-Park-FanSite-Mostapha-Elansary/index.html
 
