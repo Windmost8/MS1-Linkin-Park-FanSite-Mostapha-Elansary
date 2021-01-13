@@ -134,7 +134,7 @@ Deployment was done through github pages. The documentation of which can be foun
 Through the settings of the repository, in the options menu, scrolling down to GitHub pages and saving and publishing throuh there.
 It took some time to deploy, but eventually after some minutes the site was up.
 
-The deployed site is functional and succesfull. The link is here; https://windmost8.github.io/MS1-Linkin-Park-FanSite-Mostapha-Elansary/index.html
+The deployed site is functional and succesfull. The link is here; https://windmost8.github.io/MS1-Linkin-Park-FanSite-Mostapha-Elansary/
 
 ---
 
