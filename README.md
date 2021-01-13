@@ -39,6 +39,7 @@ https://github.com/Windmost8/MS1-Linkin-Park-FanSite-Mostapha-Elansary/blob/mast
 * Balsamiq
 * Chrome Dev tools
 * Github/Gitpod
+* Lighthouse Audits
 
 This project was done using HTML and CSS , with the help of boostrap's library. 
 [bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
@@ -94,6 +95,7 @@ These devices included:
 * Testing for the CSS code passed the Jigsaw benchmark.
 
 Supported browsers include Google Chrome.
+Furthermore, the site was tested using Lighthouse Audits, and earned a score of 98.
 
 ### Test Cases
 **Test Case 1** - All navigation links should work when clicked, from the navigation menu in the header relaying to their respective paths, to the main logo on the left corner
@@ -128,6 +130,9 @@ The template used here was the full template issued by Code Insitutite.
 
 #### Github
 Deployment was done through github pages. The documentation of which can be found here: https://pages.github.com/
+Through the settings of the repository, in the options menu, scrolling down to GitHub pages and saving and publishing throuh there.
+
+The deployed site is functional and succesfull. The link is here; https://windmost8.github.io/MS1-Linkin-Park-FanSite-Mostapha-Elansary/index.html
 
 ---
 
